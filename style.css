@@ -45,9 +45,9 @@ body {
    position: absolute;
    bottom: 20px;
    left: 20px;
+   transition: all .3s ease-in-out .4s;
 }
 
 .slide.active h3 {
    opacity: 1;
-   transition: all .3s ease-in-out .4s;
 }
